@@ -1,0 +1,10 @@
+backend/.vscode/
+.vscode/
+.idea/
+backend/.idea/
+backend/venv/
+venv/
+db.sqlite3
+*.pyc
+# Ignore .env file
+backend/.env
